@@ -234,9 +234,8 @@ Indique as referências utilizadas e informe se
 as fontes não forem suficientes para responder.
 ```
 
-**Resultado do teste:**
+Resultado do teste: O prompt inicial gerou uma resposta correta, mas bem superficial, focada só em lastro e tributação, enquanto o prompt aprimorado trouxe uma resposta muito mais completa. Com as instruções extras pedindo pra explicar o que é cada investimento, quem emite, como funciona a remuneração, os riscos, a liquidez, uma tabela comparativa com tributação, um exemplo prático e a checagem das fontes, o modelo entregou uma análise organizada em seções, com uma tabela bem mais rica de informações, um exemplo numérico mostrando na prática por que a LCI e a LCA podem compensar mais mesmo tendo uma taxa nominal menor, e até uma avaliação sobre se as fontes usadas foram suficientes. No fim das contas, detalhar bem o objetivo e pedir os critérios que eu queria analisar transformou uma resposta genérica em algo praticamente pronto pra eu usar num estudo ou numa apresentação.
 
-REGISTRAR O QUE MUDOU --- Em breve edito aqui
 
 ### Teste 2 — Diferenças entre renda fixa e renda variável
 
@@ -273,9 +272,8 @@ Se as fontes não forem suficientes para responder,
 informe essa limitação.
 ```
 
-**Resultado do teste:**
+Resultado do teste: De novo o prompt aprimorado elevou bastante o nível da resposta. O prompt inicial já trouxe uma explicação correta sobre renda fixa e renda variável, destacando o papel de credor e de sócio, mas ficou mais resumido, com uma tabela simples e só alguns exemplos soltos de ativos. Já o prompt aprimorado, ao pedir explicitamente pra explicar o funcionamento de cada modalidade, detalhar as formas de remuneração, trazer exemplos concretos como títulos públicos, CDB, ações e fundos imobiliários, montar uma tabela com riscos e liquidez, e ainda checar as fontes, fez o modelo entregar um material bem mais denso e didático. A resposta ficou dividida em seções, trouxe exemplos específicos com explicações mais ricas, como a diferença entre LFT e NTN-B dentro da renda fixa, e entre ações e FIIs dentro da renda variável, além de uma tabela comparativa mais completa cruzando funcionamento, remuneração, riscos e liquidez. No fim, fica claro de novo que quando eu dou mais direção sobre o que quero ver na resposta, o resultado sai muito mais próximo de algo pronto pra estudar ou apresentar, em vez de uma explicação só correta, mas genérica.
 
-REGISTRAR O QUE MUDOU --- Em breve edito aqui
 
 ### Teste 3 — Conferência das informações
 
@@ -309,9 +307,7 @@ algum ponto, informe essa limitação e indique
 o que não foi possível confirmar.
 ```
 
-**Resultado do teste:**
-
-REGISTRAR O QUE MUDOU --- Em breve edito aqui
+Resultado do teste:Nesse terceiro caso a diferença ficou ainda mais evidente por causa das exigências extras que eu coloquei no prompt. O prompt inicial já trouxe uma boa explicação sobre riscos e tributação de CDB, LCI e LCA, cobrindo crédito, liquidez, mercado e as alíquotas de IR, mas tudo misturado, sem deixar claro o que vinha direto das fontes e o que era interpretação. Já o prompt aprimorado, ao pedir explicitamente pra usar só as fontes do notebook, indicar as referências de cada informação, separar o que é explícito do que é conclusão por interpretação e apontar limitações caso algo não estivesse coberto, mudou completamente a estrutura da resposta. O modelo passou a organizar cada bloco separando claramente informações explícitas nas fontes e conclusões obtidas por interpretação, o que dá muito mais transparência e confiança no material, e ainda incluiu uma seção só pra apontar o que não foi possível confirmar, como o caso dos investidores não residentes e dos custos de custódia. No fim, esse prompt mostrou como pedir rigor metodológico, e não só conteúdo, faz o modelo entregar uma resposta muito mais próxima de um material acadêmico bem fundamentado.
 
 
 
