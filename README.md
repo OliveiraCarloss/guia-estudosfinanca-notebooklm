@@ -103,7 +103,7 @@ Uma parte importante desse projeto é aprender a formular perguntas que ajudem a
 
 A proposta é desenvolver perguntas que possam ser reutilizadas em outros estudos, adaptando o tema conforme a necessidade.
 
-### Prompt 1 — Explicação de um conceito
+### Prompt 1: Explicação de um conceito
 
 Objetivo: compreender um conceito financeiro de forma simples, sem perder suas características principais.
 
@@ -122,7 +122,7 @@ Se as fontes não forem suficientes para responder,
 informe essa limitação.
 ```
 
-### Prompt 2 — Comparação entre investimentos
+### Prompt 2: Comparação entre investimentos
 
 Objetivo: compreender as diferenças entre dois produtos financeiros.
 
@@ -143,7 +143,7 @@ taxas ou informações que não estejam nas fontes.
 Indique as referências utilizadas.
 ```
 
-### Prompt 3 — Resumo para revisão
+### Prompt 3: Resumo para revisão
 
 Objetivo:organizar um conteúdo estudado em um material de consulta.
 
@@ -163,7 +163,7 @@ Utilize uma linguagem clara, explique os termos técnicos
 e indique as referências utilizadas.
 ```
 
-### Prompt 4 — Glossário financeiro
+### Prompt 4: Glossário financeiro
 
 Objetivo: reunir os principais termos de um assunto e facilitar sua revisão.
 
@@ -178,7 +178,7 @@ Organize os termos em ordem alfabética e indique
 as referências utilizadas.
 ```
 
-### Prompt 5 — Teste de conhecimento
+### Prompt 5: Teste de conhecimento
 
 Objetivo: verificar se os conceitos estudados foram compreendidos.
 
@@ -195,7 +195,7 @@ Não apresente as respostas imediatamente.
 Depois que eu responder, corrija cada questão,
 explique os erros e indique as referências utilizadas.
 ```
-Sei que pode parecer redundante pedir ao NotebookLM que utilize as fontes que enviei, já que a ferramenta foi desenvolvida justamente para trabalhar com esses materiais. Porém, considero importante reforçar essa instrução como uma forma de tratamento de erros, restringindo as respostas ao conteúdo disponibilizado e reduzindo o risco de informações externas ou não fundamentadas nas fontes. Isso não elimina completamente a possibilidade de erros, mas ajuda a tornar as respostas mais alinhadas ao objetivo do estudo.
+Sei que pode parecer redundante pedir ao NotebookLM que utilize as fontes que enviei, já que a ferramenta foi desenvolvida justamente para trabalhar com os materiais fornecidos. Porém, considero importante reforçar essa instrução como uma forma de tratamento de erros, restringindo as respostas ao conteúdo disponibilizado e reduzindo o risco de informações externas ou não fundamentadas nas fontes. Isso não elimina completamente a possibilidade de erros, mas ajuda a tornar as respostas mais alinhadas ao objetivo do estudo.
 
 ## Testes e aprimoramento dos prompts
 
